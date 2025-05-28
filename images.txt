@@ -7,3 +7,4 @@ xhofe/alist:latest
 ruby:3.2.1-slim-bullseye
 chigusa/bililive-go
 portainer/portainer:linux-amd64
+n8nio/n8n:stable
